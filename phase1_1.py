@@ -17,7 +17,7 @@ model = genai.GenerativeModel("gemini-2.0-flash")
 try:
     pygame.mixer.init()
 except pygame.error as e:
-    st.warning("⚠️ Audio device not found. Audio playback won't work here.")
+    pass
 
 
 # Initialize session state
