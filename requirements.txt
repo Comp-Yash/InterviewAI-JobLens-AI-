@@ -4,6 +4,4 @@ gtts
 pygame
 PyMuPDF
 google-generativeai
-fitz
-tempfile
 io
