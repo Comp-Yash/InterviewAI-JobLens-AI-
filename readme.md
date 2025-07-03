@@ -2,8 +2,6 @@
 
 An intelligent Streamlit web application that simulates a real-time voice-based interview experience using **Gemini AI**, **speech recognition**, and **resume analysis**.
 
-## ✅ App Link : 
-
 ## 🚧 Current Status: Phase 1 Demo Prototype 
 
 This is the **initial working prototype** of the AI Interview Assistant, featuring core functionality for automated interview simulation.
@@ -39,13 +37,21 @@ This is the **initial working prototype** of the AI Interview Assistant, featuri
 ## 📸 Screenshots
 
 ### Main Interface
-![AI Interview Assistant Main](https://via.placeholder.com/800x400?text=AI+Interview+Assistant+Main+Interface)
+![AI Interview Assistant Main](assets/Images/Main.png)
 
 ### Interview in Progress
-![Interview Session](https://via.placeholder.com/800x400?text=Interview+Session+in+Progress)
+![Interview Session](assets/Images/eg1.png)
+
+![Interview Session](assets/Images/eg1_1.png)
+
+![Interview Session](assets/Images/eg1_1.png)
+
+![Interview Session](assets/Images/ss1.png)
 
 ### Interview Summary
-![Interview Summary](https://via.placeholder.com/800x400?text=Interview+Summary)
+![Interview Summary](assets/Images/Summary1.png)
+
+![Interview Summary](assets/Images/Summary2.png)
 
 ---
 
