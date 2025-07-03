@@ -14,10 +14,8 @@ genai.configure(api_key="AIzaSyBNDP4ixG27c9zblIBYeXzajhXV5vu1_mk")
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 # Initialize pygame mixer
-try:
-    pygame.mixer.init()
-except pygame.error as e:
-    pass
+pygame.mixer.init()
+
 
 
 # Initialize session state
