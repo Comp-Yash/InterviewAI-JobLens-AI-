@@ -1,0 +1,18 @@
+Role : Data Science
+
+Description :
+
+About the work from home job/internship
+Selected intern's day-to-day responsibilities include:
+
+1. Actively participating in structured training sessions focused on core AI concepts and tools
+2. Applying acquired skills to real-time projects during the internship phase
+3. Collaborating with mentors and team members to complete assigned tasks, reports, and deliverables
+Skill(s) required
+Data Analytics
+Deep Learning
+Machine Learning
+Python
+SQL                   
+
+

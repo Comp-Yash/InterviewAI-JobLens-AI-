@@ -1,0 +1,35 @@
+Interview Summary for Yash
+Job Title: Data Science
+Level: Entry Level
+Date: 2025-07-03 16:12:32
+
+Question 1: This internship involves a lot of learning and applying new skills. Can you describe a time you had to quickly learn a new technical skill, and how you applied it to solve a problem?
+Answer: yes I have multiple situations where I had to quickly learn and apply new technical skills one example that stands out watch during my industrial project where I have asked to implement an anomaly detection system using machine learning at that point I was familiar with Python and basic ml concern but I hasn't work with the time series data on on supervised learning techniques like isolation forest or auto encoders to bridge the gap are spent few days going through to the concept official documents online tutorials and applied learning platforms to understand the concept I also hands on experience with a small data set at first time once again a conference and implement a working product by using a python Pandas cyclic also optimise the model using a real industrial sensor data that detect the annually more accurately
+
+Question 2: This internship requires you to collaborate with mentors and team members on tasks and deliverables. Can you share an experience where you successfully collaborated with others on a technical project, and what made that collaboration effective?
+Answer: yes I have recently worked on a technical project during my industrial internship where collaboration plays a key role out of success we were tasked to build a data pipeline for detecting irregular patterns in transactional data using machine learning model I have worked closely with my team and other team members to divide the work based on individual strength on 100 data preprocessing in SQL another focus on the model building when I took responsibility of a data visualisation and integration the model using Python are mental guidance weekly and there were the multiple doubt session answer team meeting which helps to collaboration more provide data help each other and have some clear communication comments and also control over the project
+
+Question 3: This internship emphasizes the use of SQL for data management. Could you walk me through a time you used SQL to solve a data-related problem, highlighting the specific SQL commands or techniques you employed?
+Answer: yes I have used SQL extensively in one of my recent academic project where I have to analyse sales data for a retail chain to generate a business inside the problem involves identifying the top performing product by a region customer purchase pattern over time and detecting a sudden drop in a sales for the certain scenarios and categories to solve a first imported data into the relational database like MySQL then use a SQL queries to go over data understand that clean that data better using multiple techniques like a SQL operations we can have a group by having clothes as well as joints that these techniques I was able to beat a clear dashboard and highlight key insights and anomalies in the sense data this project could not only student but also taught me how to structure Complex query and use SQL for the real business decision making
+
+Question 4: The job description highlights that you'll be applying acquired skills to real-time projects during the internship. Can you describe a time you worked on a project where you had to adapt your approach or skillset mid-way due to unexpected challenges or new information?
+Answer: skip skip
+
+Question 5: Given your experience with tools like TensorFlow and Keras, can you explain how you would approach building and evaluating a deep learning model for a specific task like image classification, and what metrics would you prioritize?
+Answer: skip the question
+
+Question 6: Based on the skills required for this internship and your experience with data analytics, could you describe a time you used data analytics techniques to identify trends or insights that led to a significant improvement or informed a decision?
+Answer: skip
+
+Question 7: This internship involves working with real-time data; can you describe your experience with handling and processing real-time data streams, and what considerations you would make when building a model to analyze such data?
+Answer: skip
+
+Question 8: Based on your project experience, especially the AI-Powered Data Understanding Assistant, how would you approach explaining complex data insights derived from machine learning models to someone without a technical background, ensuring they understand the value and implications of these insights?
+Answer: skip skip skip
+
+Question 9: Given your experience with Python and machine learning libraries, describe a situation where you used Python to automate a repetitive data analysis task, and what were the key benefits of automating it?
+Answer: skip skip the question
+
+Question 10: This internship involves participating in structured training sessions. Can you describe your preferred learning style, and how you ensure you effectively absorb and retain new information during technical training?
+Answer: skip the question
+
